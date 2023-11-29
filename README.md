@@ -1,6 +1,7 @@
 # Fast Binary Exponentiation
+**Note that this implementation is unfinished.**
 
-Implement the function computeC(int[] a, int[] b), which takes an array a of length 𝑛
+Implement the function `computeC(int[] a, int[] b)`, which takes an array a of length 𝑛
 and an array b of length 𝑚
 as input and returns an 𝑛×𝑚
 matrix. This matrix contains the values $𝑎_i^{b_j}$
